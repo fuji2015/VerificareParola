@@ -1,0 +1,10 @@
+C:\Users\F\documents\visual studio 2013\Projects\VerificareParola\VerificareParola\bin\Release\VerificareParola.exe.config
+C:\Users\F\documents\visual studio 2013\Projects\VerificareParola\VerificareParola\bin\Release\frec.txt
+C:\Users\F\documents\visual studio 2013\Projects\VerificareParola\VerificareParola\bin\Release\rezults.txt
+C:\Users\F\documents\visual studio 2013\Projects\VerificareParola\VerificareParola\bin\Release\VerificareParola.exe
+C:\Users\F\documents\visual studio 2013\Projects\VerificareParola\VerificareParola\bin\Release\VerificareParola.pdb
+C:\Users\F\documents\visual studio 2013\Projects\VerificareParola\VerificareParola\obj\Release\VerificareParola.Form1.resources
+C:\Users\F\documents\visual studio 2013\Projects\VerificareParola\VerificareParola\obj\Release\VerificareParola.Properties.Resources.resources
+C:\Users\F\documents\visual studio 2013\Projects\VerificareParola\VerificareParola\obj\Release\VerificareParola.csproj.GenerateResource.Cache
+C:\Users\F\documents\visual studio 2013\Projects\VerificareParola\VerificareParola\obj\Release\VerificareParola.exe
+C:\Users\F\documents\visual studio 2013\Projects\VerificareParola\VerificareParola\obj\Release\VerificareParola.pdb
